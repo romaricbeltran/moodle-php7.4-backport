@@ -1,0 +1,12 @@
+/build/
+/dist/
+/vendor/
+/*.tar
+/*.tar.gz
+*.o
+*.lo
+*.la
+*.log
+.env
+.env.*
+!.env.example
